@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Header from "../../components/header/Header";
+import { Helmet } from "react-helmet";
 import Footer from "../../components/footer/Footer";
 import TopButton from "../../components/topButton/TopButton";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
@@ -16,6 +17,37 @@ class Contact extends Component {
     const theme = this.props.theme;
     return (
       <div className="contact-main">
+        <Helmet>
+          ‍<title>Contact | TheRealMVP</title>‍
+          <meta
+            name="description"
+            content="Contact Muhammad Kumail aka TheRealMVP today"
+          />
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:site" content="@iamkumaail" />{" "}
+          <meta name="twitter:creator" content="@iamkumaail" />{" "}
+          <meta name="twitter:title" content="Contact | TheRealMVP" />{" "}
+          <meta
+            property="twitter:url"
+            content="https://muhammadkumail.com/contact"
+          />
+          <meta
+            name="twitter:description"
+            content="Contact Muhammad Kumail aka TheRealMVP today"
+          />{" "}
+          <meta property="og:title" content="Contact | TheRealMVP" />{" "}
+          <meta
+            property="og:description"
+            content="Contact Muhammad Kumail aka TheRealMVP today"
+          />
+          <meta
+            property="og:url"
+            content="https://muhammadkumail.com/contact"
+          />
+          <meta property="og:site_name" content="Blogs | TheRealMVP" />
+          <meta property="og:locale" content="en_US" />
+          <meta property="og:type" content="article" />
+        </Helmet>
         <Header theme={theme} />
         <div className="basic-contact">
           <Zoom duration={1000}>

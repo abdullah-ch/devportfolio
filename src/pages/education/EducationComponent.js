@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { Helmet } from "react-helmet";
 import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import TopButton from "../../components/topButton/TopButton";
@@ -15,9 +16,39 @@ class Education extends Component {
     const theme = this.props.theme;
     return (
       <div className="education-main">
+        <Helmet>
+          ‍<title>Education | TheRealMVP</title>‍
+          <meta
+            name="description"
+            content="My education history has always been an entertaining one, here's what's more about it..."
+          />
+          <meta name="twitter:site" content="@iamkumaail" />{" "}
+          <meta name="twitter:creator" content="@iamkumaail" />{" "}
+          <meta name="twitter:title" content="Education | TheRealMVP" />{" "}
+          <meta
+            property="twitter:url"
+            content="https://muhammadkumail.com/education"
+          />
+          <meta
+            name="twitter:description"
+            content="My education history has always been an entertaining one, here's what's more about it..."
+          />{" "}
+          <meta property="og:title" content="Education | TheRealMVP" />{" "}
+          <meta
+            property="og:description"
+            content="My education history has always been an entertaining one, here's what's more about it..."
+          />
+          <meta
+            property="og:url"
+            content="https://muhammadkumail.com/education"
+          />
+          <meta property="og:site_name" content="Education | TheRealMVP" />
+          <meta property="og:locale" content="en_US" />
+          <meta property="og:type" content="article" />
+        </Helmet>
         <Header theme={this.props.theme} />
         <div className="basic-education">
-          <Zoom duration={1000} >
+          <Zoom duration={1000}>
             <div className="heading-div">
               <div className="heading-img-div">
                 {/* <img
@@ -33,7 +64,12 @@ class Education extends Component {
                 <h3 className="heading-sub-text" style={{ color: theme.text }}>
                   My Qualifications and Certifications
                 </h3>
-                <p>Here's what you need to know about my qualification background <span role="img" aria-label="blink">😉</span></p>
+                <p>
+                  Here's what you need to know about my qualification background{" "}
+                  <span role="img" aria-label="blink">
+                    😉
+                  </span>
+                </p>
                 <CompetitiveSites logos={competitiveSites.competitiveSites} />
               </div>
             </div>

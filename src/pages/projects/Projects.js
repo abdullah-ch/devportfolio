@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { Helmet } from "react-helmet";
 import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import GithubRepoCard from "../../components/githubRepoCard/GithubRepoCard";
@@ -15,9 +16,39 @@ class Projects extends Component {
     const theme = this.props.theme;
     return (
       <div className="projects-main">
+        <Helmet>
+          ‍<title>Projects | TheRealMVP</title>‍
+          <meta
+            name="description"
+            content="What's better when Kumail's project speak for itself and explains his tech skills in a better way"
+          />
+          <meta name="twitter:site" content="@iamkumaail" />{" "}
+          <meta name="twitter:creator" content="@iamkumaail" />{" "}
+          <meta name="twitter:title" content="Projects | TheRealMVP" />{" "}
+          <meta
+            property="twitter:url"
+            content="https://muhammadkumail.com/projects"
+          />
+          <meta
+            name="twitter:description"
+            content="What's better when Kumail's project speak for itself and explains his tech skills in a better way"
+          />{" "}
+          <meta property="og:title" content="Projects | TheRealMVP" />{" "}
+          <meta
+            property="og:description"
+            content="What's better when Kumail's project speak for itself and explains his tech skills in a better way"
+          />
+          <meta
+            property="og:url"
+            content="https://muhammadkumail.com/projects"
+          />
+          <meta property="og:site_name" content="Projects | TheRealMVP" />
+          <meta property="og:locale" content="en_US" />
+          <meta property="og:type" content="article" />
+        </Helmet>
         <Header theme={theme} />
         <div className="basic-projects">
-          <Zoom duration={1000} >
+          <Zoom duration={1000}>
             <div className="projects-heading-div">
               <div className="projects-heading-img-div">
                 {/* <img
