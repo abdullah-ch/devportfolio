@@ -2,7 +2,7 @@
   "private": true,
   "name": "mkfolio",
   "version": "1.0.0",
-  "homepage": "https://mkumail1.github.io/therealmvp.dev/",
+  "homepage": "https://muhammadkumail.com",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
