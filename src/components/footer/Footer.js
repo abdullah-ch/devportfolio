@@ -6,22 +6,25 @@ import { Fade } from "react-reveal";
 
 export default function Footer(props) {
   return (
-    <div className="footer-div" style={{ backgroundColor: props.theme.text }}>
+    <div className="footer-div">
       <Fade>
-        <p className="footer-text" style={{ color: props.theme.highlight }}>
+        <p className="footer-text" style={{ color: props.theme.text }}>
           Made with <span role="img">❤️</span> by
           <a
             href="https://www.linkedin.com/in/mkumail1/"
             target="_blank"
             rel="noopener noreferrer"
             style={{
-              color: props.theme.imageHighlight, textDecoration: 'none'
+              color: props.theme.imageHighlight,
+              textDecoration: "none",
             }}
-          > Muhammad Kumail
+          >
+            {" "}
+            Muhammad Kumail
           </a>
         </p>
         {/* <ToggleSwitch theme={props.theme} onToggle={props.onToggle} /> */}
       </Fade>
-    </div >
+    </div>
   );
 }
