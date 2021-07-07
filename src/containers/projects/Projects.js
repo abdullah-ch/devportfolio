@@ -11,6 +11,7 @@ export default function Projects() {
 
   useEffect(() => {
     getRepoData();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   function getRepoData() {
