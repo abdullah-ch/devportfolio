@@ -42,7 +42,6 @@ class Education extends Component {
             property="og:url"
             content="https://muhammadkumail.com/education"
           />
-          <meta property="og:site_name" content="Education | TheRealMVP" />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />
         </Helmet>

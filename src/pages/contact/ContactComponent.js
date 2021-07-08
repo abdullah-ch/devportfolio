@@ -44,7 +44,6 @@ class Contact extends Component {
             property="og:url"
             content="https://muhammadkumail.com/contact"
           />
-          <meta property="og:site_name" content="Blogs | TheRealMVP" />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />
         </Helmet>

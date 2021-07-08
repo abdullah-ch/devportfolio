@@ -19,7 +19,7 @@ class LogoLoader extends React.Component {
         <br />
         <p
           style={{
-            color: "white",
+            color: this.props.theme.secondaryText,
             textAlignVertical: "center",
             textAlign: "center",
             width: "100%",

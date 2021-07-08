@@ -42,7 +42,6 @@ class Projects extends Component {
             property="og:url"
             content="https://muhammadkumail.com/projects"
           />
-          <meta property="og:site_name" content="Projects | TheRealMVP" />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />
         </Helmet>

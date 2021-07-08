@@ -105,7 +105,20 @@ export default class Main extends React.PureComponent {
       );
     } else {
       return (
-        <Suspense fallback={<div>Loading...</div>}>
+        <Suspense
+          fallback={
+            <img
+              src={require("../assests/images/infinity-gif.svg")}
+              alt="infinity and beyond..."
+              style={{
+                display: "block",
+                marginLeft: "auto",
+                marginRight: "auto",
+                width: "50%",
+              }}
+            />
+          }
+        >
           <div>
             <Router>
               <Switch>

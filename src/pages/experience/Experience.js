@@ -40,7 +40,6 @@ class Experience extends Component {
             property="og:url"
             content="https://muhammadkumail.com/experience"
           />
-          <meta property="og:site_name" content="Experience | TheRealMVP" />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />
         </Helmet>
