@@ -26,13 +26,13 @@ class Home extends Component {
           <meta
             name="twitter:description"
             content="Muhammad Kumail (therealmvp) is a Full Stack Developer, Public Speaker, Freelancer, and a student mentor. Kumail is also an AWS Educate Cloud Ambassador, Microsoft Learn Student Ambassador and leads Google Developers Student Club at NUST"
-          />{" "}
+          />
           <meta property="og:title" content="Muhammad Kumail | TheRealMVP" />{" "}
           <meta
             property="og:description"
             content="Muhammad Kumail (therealmvp) is a Full Stack Developer, Public Speaker, Freelancer, and a student mentor. Kumail is also an AWS Educate Cloud Ambassador, Microsoft Learn Student Ambassador and leads Google Developers Student Club at NUST"
           />
-          <meta property="og:url" content="https://muhammadkumail.com/home" />
+          <meta property="og:url" content="https://muhammadkumail.com/" />
           <meta
             property="og:site_name"
             content="Muhammad Kumail | TheRealMVP"

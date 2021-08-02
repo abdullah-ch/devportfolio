@@ -130,13 +130,6 @@ export default class Main extends React.PureComponent {
                   )}
                 />
                 <Route
-                  path="/home"
-                  exact
-                  render={(props) => (
-                    <Home {...props} theme={this.props.theme} />
-                  )}
-                />
-                <Route
                   path="/experience"
                   exact
                   render={(props) => (

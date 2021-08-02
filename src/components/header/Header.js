@@ -9,7 +9,7 @@ class Header extends Component {
     return (
       <div>
         <header className="header">
-          <NavLink to="/home" tag={Link} className="logo">
+          <NavLink to="/" tag={Link} className="logo">
             <span style={{ color: theme.text }}> &lt;</span>
             <span className="logo-name" style={{ color: "#010101" }}>
               {greeting.logo_name}
@@ -23,7 +23,7 @@ class Header extends Component {
           <ul className="menu" style={{ backgroundColor: theme.body }}>
             <li>
               <NavLink
-                to="/home"
+                to="/"
                 tag={Link}
                 activeStyle={{ fontWeight: "bold" }}
                 style={{ color: theme.text }}
