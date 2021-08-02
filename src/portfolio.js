@@ -624,10 +624,22 @@ const experience = {
           company: "Quantaleap, Netherlands",
           company_url: "https://quantaleap.eu/",
           logo_path: "quantaleap.png",
-          duration: "June 2021 - present",
+          duration: "June 2021 - August 2021",
           location: "Remote Work",
           description:
             "Developing cloud solutions for enterprise and enabling cloud automation with just one click of a button. Working on project that involves Data engineering and data feeding for controlling of instances. Finally using serverless computing to build a handsome product. Main build tools involved adobe XD, AI, AWS, Azure, GCP, MERN, and Redux.",
+          color: "#0879bf",
+        },
+        {
+          title: "Freelancer: Full Stack (MERN) and DevOps",
+          company: "Upwork",
+          company_url:
+            "https://www.upwork.com/o/profiles/users/~01d6588c289ac050a4/",
+          logo_path: "upwork.png",
+          duration: "Mar 2021 - present",
+          location: "Remote Work",
+          description:
+            "Selling services of Full Stack solutions in MERN and NextJs. One of the fatest growing freelancers on Upwork with 5 star feedback. Retaining almost every client that I have worked with so far. Further selling the art of continuous integration and continuous development on major cloud platforms such as AWS, GCP, MS Azure, Heroku, Digital Ocean.",
           color: "#0879bf",
         },
         {
@@ -673,7 +685,7 @@ const experience = {
           company: "ROMI Lab, SEECS",
           company_url: "https://romi.seecs.nust.edu.pk/",
           logo_path: "romi-logo.png",
-          duration: "April 2020 - present",
+          duration: "April 2020 - September 2020",
           location: "SEECS, NUST",
           description:
             "Worked on project of converting 2D image into 3D using the help of Machine Learning. The project covered two main aspects: (1) To enuemerate normal prediction of a 2D image. (2) Using ML techniques to draw coordinates on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution. The project had the following scope: (a) Object Visualization for Uban Cities. (b) Generating/evaluating building hypothesis",
@@ -734,7 +746,7 @@ const experience = {
           company_url:
             "https://dsc.community.dev/national-university-of-sciences-and-technology/",
           logo_path: "dscnust-short.png",
-          duration: "July 2020 - present",
+          duration: "July 2020 - July 2021",
           location: "NUST, Islamabad",
           description:
             "2nd ever lead from NUST and Pakistani DSC Chapter. Lead the club for one of the most prestigious universities in Pakistan. Conducted tonnes of events in order to make student the next big assests in the market. The program provides an ecosystem that encourages sharing of knowledge, learning and community building using the power of Google and its resources. Finally, it gives the exposure of mentoring people to become the next Google Developer Expert and preserving the chain.",
@@ -746,7 +758,7 @@ const experience = {
           company_url:
             "https://aws.amazon.com/education/awseducate/cloud-ambassador-program/",
           logo_path: "awsblack.png",
-          duration: "Apr 2020 - present",
+          duration: "Apr 2020 - May 2021",
           location: "NUST, Islamabad",
           description:
             "Enabling students to learn the cloud based cooporate technology usage using AWS. Made more than 50 students a part of AWS Educate program. Conducted workshops and Community Day event powered by AWS in Pakistan. Founded AWS community of Pakistan, the first of its kind that helps more than 1K students on a weekly basis to learn AWS.",
