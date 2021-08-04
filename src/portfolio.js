@@ -409,7 +409,7 @@ const degrees = {
       descriptions: [
         "⚡ Gained deep insights of fundamental software engineering courses like DS, Algorithms, DBMS, OS, Advanced Programming, Artificial Intelligence etc.",
         "⚡ The transparent methodology of providing diversity and building confidence by NUST has helped to develop me as a person not to forget mentioning the community bonding techniques that talks about growth",
-        "⚡ Apart from this, I have done courses on MERN Stack Development, Cloud Computing, Data Science, and Managing successful startups",
+        "⚡ Apart from this, I have done courses on MERN Stack Development, Cloud Computing, Data Science, and Managing successful Start-ups",
         "⚡ My favorite co-curricular hobby has been to manage big tech communities since I have represented NUST as an MLSA, Google DSC Lead and AWS Educate Cloud Ambassador simultaneously",
       ],
       website_link: "https://nust.edu.pk/",
@@ -422,7 +422,7 @@ const degrees = {
       duration: "2006 - 2018",
       descriptions: [
         "⚡ Shortlisted as House Captain for school disciplines for two times in a row",
-        "⚡ Swiftly conducted sports and other extra curricular events in college",
+        "⚡ Swiftly conducted sports and other extra-curricular events in college",
         "⚡ Was awarded as 'Pride of Hamza' which is the highest ranked award in the college in my final year",
       ],
       website_link: "http://www.hamza.edu.pk/",
@@ -613,7 +613,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as a Full Stack Developer, Designer and a Software Architect. I have also worked with some well established companies as Software Quality Assurance Trainee. I have also given my services as a Project Manager for an International Company. The best part is that I love giving back to the people what I have learned so far. So, organising events and fundraising is what I do voluntarity. From Personally conducting hackathons to mentoring students as a Microsoft representative I have built empowering tech communities that benefits more than 3000 people accross the country on a daily basis",
+    "I have worked with many evolving Start-ups as a Full Stack Developer, Designer and a Software Architect. I have also worked with some well-established companies as Software Quality Assurance Trainee. I have also given my services as a Project Manager for an International Company. The best part is that I love giving back to the people what I have learned so far. So, organising events and fundraising is what I do voluntarity. From Personally conducting hackathons to mentoring students as a Microsoft representative I have built empowering tech communities that benefits more than 3000 people across the country on a daily basis.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -857,7 +857,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "address_image.svg",
     description:
-      "I am available on almost every social media. And here is the fun part, I'm very responsive, so feel free to reach me out if you want a Freelance work to be done or need a speaker for your tech talk. You can hit me up and have a Tech Savy advice too! I can help you with ML, AI, MERN Stack and Android applications, Cloud Architectures and Opensource Development.",
+      "I am available on almost every social media. And here is the fun part, I'm very responsive, so feel free to reach me out if you want a Freelance work to be done or need a speaker for your tech talk. You can hit me up and have a Tech Savvy advice too! I can help you with ML, AI, MERN Stack and Android applications, Cloud Architectures and Opensource Development.",
   },
   addressSection: {
     title: "Address",
