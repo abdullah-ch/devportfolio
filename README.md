@@ -119,8 +119,6 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 - [React](https://reactjs.org/)
 - [graphql](https://graphql.org/)
 - [apollo-boost](https://www.apollographql.com/docs/react/get-started/)
-- [baseui](https://github.com/uber/baseweb)
-- [react-reveal](https://www.react-reveal.com/)
 - [styled-components](https://styled-components.com/)
 
 # illustrations 🍥
@@ -134,3 +132,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 # Contributing 💡
 
 If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/mkumail1/therealmvp.dev/pulls) or [issue](https://github.com/mkumail1/therealmvp.dev/issues).
+
+# Big shoutout to 
+
+- A lot of UI inspiration was taken from [Ashutosh](https://github.com/ashutosh1919/masterPortfolio) but his portfolio did very poor with the SEO.
+Usage of components like **Hash Routers** and **Splash screens** at the initial loading badly affected the SEO so this portfolio site is solely made to be optimized for Good Google and other search engine SEO and pays the role of a portfolio site to its fulllest. 
