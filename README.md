@@ -13,7 +13,7 @@
 
 Hit the live example, **[click here](https://muhammadkumail.com/)**
 
-# Clone And Use 📋
+## Clone And Use 📋
 
 - The website is completely built on `react-js` framework of `javascript` and that's why we need `nodejs` and `npm` installed.
 - While installing `nodejs` and `npm`, try to install versions which are equal or greater than the versions mentioned in badges above.
@@ -30,13 +30,9 @@ Hit the live example, **[click here](https://muhammadkumail.com/)**
 - Now, the project is ready to use.
 - You can check it using `npm start`, it will open the website locally on your browser.
 
-# Customize it to make your own portfolio ✏️
+## Customize it for your own easy ✏️
 
 In this project, there are basically 4 things that you need to change to customize this to anyone else's portfolio: **package.json**, **Personal Information**, **Github Information** and **Splash Logo**.
-
-### package.json
-
-Open this file, which is in the main cloned directory, choose any "name" and change "homepage " to `https://<your-github-username>.github.io`. Do not forget the `https://`, otherwise fonts will not load.
 
 ### Personal Information
 
