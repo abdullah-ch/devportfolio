@@ -54,7 +54,7 @@ const socialMediaLinks = {
 
 You can change the personal information, experience, education, social media, certifications, blog information, contact information etc. in `src/portfolio.js` to directly reflect them in portfolio website.
 
-# Choose Theme 🌈
+## Choose Theme 🌈
 
 - You can take a look at `src/theme.js` file where all available themes are mentioned with respective color codes.
 - At the bottom of this file you will see the below code:
@@ -65,7 +65,7 @@ You can change the personal information, experience, education, social media, ce
 
   Run `npm start` to check if everything is ok.
 
-# Deployment 📦
+## Deployment 📦
 
 - Once you are done with your setup and have successfully completed all steps above, you need to put your website online!
 - I highly recommend using [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to achieve this the EASIEST WAY.
@@ -86,22 +86,22 @@ You can change the personal information, experience, education, social media, ce
 Now, your website is successfully deployed and you can visit it at `<your-github-username>.github.io`.  
 If you are stuck somewhere and want to observe the deployment process in depth, then please watch below video.
 
-# Technologies used 🛠️
+## Technologies used 🛠️
 
 - [React](https://reactjs.org/)
 - [graphql](https://graphql.org/)
 - [apollo-boost](https://www.apollographql.com/docs/react/get-started/)
 - [styled-components](https://styled-components.com/)
 
-# illustrations 🍥
+## illustrations 🍥
 
 - [UnDraw](https://undraw.co/illustrations)
 
-# Contributing 💡
+## Contributing 💡
 
 If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/mkumail1/therealmvp.dev/pulls) or [issue](https://github.com/mkumail1/therealmvp.dev/issues).
 
-# Big shoutout to 
+## Big shoutout to 
 
 - A lot of UI inspiration was taken from [Ashutosh's MasterFolio](https://github.com/ashutosh1919/masterPortfolio) but his portfolio was doing very poor with the SEO.
 Such as **Hash Routers** and **Splash screens** at the initial loading badly affected the SEO so this portfolio site is solely made to be optimized for Good Google and other search engine SEO and pays the role of a portfolio site to its fulllest. 
