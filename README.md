@@ -1,5 +1,7 @@
 <h1 align="center"> Here is my MKFolio by Muhammad Kumail 🔥 </h1> 
 
+:star: Make sure to drop a star on GitHub that helps a lot :D
+
 ## You can avail multiple pages ranging from 📚
 
 ✔️ Main landing page \
@@ -106,4 +108,3 @@ If you can help us with these. Please don't hesitate to open an [pull request](h
 - A lot of UI inspiration was taken from [Ashutosh's MasterFolio](https://github.com/ashutosh1919/masterPortfolio) but his portfolio was doing very poor with the SEO.
 Such as **Hash Routers** and **Splash screens** at the initial loading badly affected the SEO so this portfolio site is solely made to be optimized for Good Google and other search engine SEO and pays the role of a portfolio site to its fulllest. 
 
-:star: Make sure to drop a star on GitHub that helps a lot :D
