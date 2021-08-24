@@ -1,11 +1,9 @@
 <h1 align="center"> Here is my MKFolio by Muhammad Kumail 🔥 </h1> 
 
-:star: Star me on GitHub — it helps!
+# You can avail multiple pages ranging from 📚
 
-# It contains 📚
-
+✔️ Main landing page `[Home]` \
 ✔️ Skills \
-✔️ Open Source Projects Connected with Github\
 ✔️ Summary and About me\
 ✔️ Experience\
 ✔️ Certifications 🏆\
@@ -60,28 +58,6 @@ const socialMediaLinks = {
 
 You can change the personal information, experience, education, social media, certifications, blog information, contact information etc. in `src/portfolio.js` to directly reflect them in portfolio website.
 
-### Github Information
-
-You will find `git_data_fetcher.js` file in the main directory of the repository. This file is used to fetch the data (Pull requests, Issues, Organizations, Pinned projects etc.) from your github.
-If you open the file, you will see below component at the top of the file. You need to change only that component.
-
-```python
-const openSource = {
-  githubConvertedToken: "Your Github Token Here.",
-  githubUserName: "Your Github Username Here.",
-};
-```
-
-You can get a github token as described [here](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token). Give all permissions while generating token. Also add your `githubUserName` in the correct field inside `git_data_fetcher.js`.
-Now, you need to run following command.
-
-```python
-node git_data_fetcher.js
-```
-
-This will fetch all the data from your github and it will automatically replace my data with yours.
-Whenever you want to update the github related information on the website you need to run this command.
-
 # Choose Theme 🌈
 
 - You can take a look at `src/theme.js` file where all available themes are mentioned with respective color codes.
@@ -125,15 +101,13 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 
 - [UnDraw](https://undraw.co/illustrations)
 
-# License 📄
-
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
-
 # Contributing 💡
 
 If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/mkumail1/therealmvp.dev/pulls) or [issue](https://github.com/mkumail1/therealmvp.dev/issues).
 
 # Big shoutout to 
 
-- A lot of UI inspiration was taken from [Ashutosh](https://github.com/ashutosh1919/masterPortfolio) but his portfolio did very poor with the SEO.
-Usage of components like **Hash Routers** and **Splash screens** at the initial loading badly affected the SEO so this portfolio site is solely made to be optimized for Good Google and other search engine SEO and pays the role of a portfolio site to its fulllest. 
+- A lot of UI inspiration was taken from [Ashutosh's MasterFolio](https://github.com/ashutosh1919/masterPortfolio) but his portfolio was doing very poor with the SEO.
+Such as **Hash Routers** and **Splash screens** at the initial loading badly affected the SEO so this portfolio site is solely made to be optimized for Good Google and other search engine SEO and pays the role of a portfolio site to its fulllest. 
+
+:star: Make sure to drop a star on GitHub that helps a lot :D
