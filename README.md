@@ -105,5 +105,5 @@ If you can help us with these. Please don't hesitate to open an [pull request](h
 
 ## Big shoutout to 
 
-[Ashutosh's MasterFolio](https://github.com/ashutosh1919/masterPortfolio) since the UI inspiration was taken from his portfolio but I found out that the code was doing very poor with the SEO. Usage of some react conventions at the initial loading badly affected the SEO so this portfolio site is solely made to be optimized for Good Google and other search engine SEO indexs and pays the role of a portfolio site to its fulllest. 
+[Ashutosh's MasterFolio](https://github.com/ashutosh1919/masterPortfolio) since the UI inspiration was taken from his portfolio but I found out that the code was doing very poor with the SEO. Usage of some react conventions at the initial loading badly affected the SEO so this portfolio site is solely made to be optimized for Good Google and other search engine SEO indexes and pays the role of a portfolio site to its fulllest. 
 
