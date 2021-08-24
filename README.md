@@ -1,6 +1,6 @@
 <h1 align="center"> Here is my MKFolio by Muhammad Kumail 🔥 </h1> 
 
-# You can avail multiple pages ranging from 📚
+## You can avail multiple pages ranging from 📚
 
 ✔️ Main landing page `[Home]` \
 ✔️ Skills \
