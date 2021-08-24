@@ -2,7 +2,7 @@
 
 ## You can avail multiple pages ranging from 📚
 
-✔️ Main landing page `[Home]` \
+✔️ Main landing page \
 ✔️ Skills \
 ✔️ Summary and About me\
 ✔️ Experience\
