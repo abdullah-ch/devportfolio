@@ -1,11 +1,11 @@
-<h1 align="center"> Here is my MKFolio by Muhammad Kumail 🔥 </h1> 
+<h1 align="center"> Software DevPortfolio 🔥 </h1> 
 
-:star: Star me on GitHub — it helps!
+:star: Make sure to drop a star on GitHub that helps a lot :D
 
-# It contains 📚
+## You can avail multiple pages ranging from 📚
 
+✔️ Main landing page \
 ✔️ Skills \
-✔️ Open Source Projects Connected with Github\
 ✔️ Summary and About me\
 ✔️ Experience\
 ✔️ Certifications 🏆\
@@ -15,7 +15,7 @@
 
 Hit the live example, **[click here](https://muhammadkumail.com/)**
 
-# Clone And Use 📋
+## Clone And Use 📋
 
 - The website is completely built on `react-js` framework of `javascript` and that's why we need `nodejs` and `npm` installed.
 - While installing `nodejs` and `npm`, try to install versions which are equal or greater than the versions mentioned in badges above.
@@ -32,13 +32,9 @@ Hit the live example, **[click here](https://muhammadkumail.com/)**
 - Now, the project is ready to use.
 - You can check it using `npm start`, it will open the website locally on your browser.
 
-# Customize it to make your own portfolio ✏️
+## Customize it for your own easy ✏️
 
 In this project, there are basically 4 things that you need to change to customize this to anyone else's portfolio: **package.json**, **Personal Information**, **Github Information** and **Splash Logo**.
-
-### package.json
-
-Open this file, which is in the main cloned directory, choose any "name" and change "homepage " to `https://<your-github-username>.github.io`. Do not forget the `https://`, otherwise fonts will not load.
 
 ### Personal Information
 
@@ -60,29 +56,7 @@ const socialMediaLinks = {
 
 You can change the personal information, experience, education, social media, certifications, blog information, contact information etc. in `src/portfolio.js` to directly reflect them in portfolio website.
 
-### Github Information
-
-You will find `git_data_fetcher.js` file in the main directory of the repository. This file is used to fetch the data (Pull requests, Issues, Organizations, Pinned projects etc.) from your github.
-If you open the file, you will see below component at the top of the file. You need to change only that component.
-
-```python
-const openSource = {
-  githubConvertedToken: "Your Github Token Here.",
-  githubUserName: "Your Github Username Here.",
-};
-```
-
-You can get a github token as described [here](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token). Give all permissions while generating token. Also add your `githubUserName` in the correct field inside `git_data_fetcher.js`.
-Now, you need to run following command.
-
-```python
-node git_data_fetcher.js
-```
-
-This will fetch all the data from your github and it will automatically replace my data with yours.
-Whenever you want to update the github related information on the website you need to run this command.
-
-# Choose Theme 🌈
+## Choose Theme 🌈
 
 - You can take a look at `src/theme.js` file where all available themes are mentioned with respective color codes.
 - At the bottom of this file you will see the below code:
@@ -93,7 +67,7 @@ Whenever you want to update the github related information on the website you ne
 
   Run `npm start` to check if everything is ok.
 
-# Deployment 📦
+## Deployment 📦
 
 - Once you are done with your setup and have successfully completed all steps above, you need to put your website online!
 - I highly recommend using [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to achieve this the EASIEST WAY.
@@ -114,23 +88,22 @@ Whenever you want to update the github related information on the website you ne
 Now, your website is successfully deployed and you can visit it at `<your-github-username>.github.io`.  
 If you are stuck somewhere and want to observe the deployment process in depth, then please watch below video.
 
-# Technologies used 🛠️
+## Technologies used 🛠️
 
 - [React](https://reactjs.org/)
 - [graphql](https://graphql.org/)
 - [apollo-boost](https://www.apollographql.com/docs/react/get-started/)
-- [baseui](https://github.com/uber/baseweb)
-- [react-reveal](https://www.react-reveal.com/)
 - [styled-components](https://styled-components.com/)
 
-# illustrations 🍥
+## illustrations 🍥
 
 - [UnDraw](https://undraw.co/illustrations)
 
-# License 📄
-
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
-
-# Contributing 💡
+## Contributing 💡
 
 If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/mkumail1/therealmvp.dev/pulls) or [issue](https://github.com/mkumail1/therealmvp.dev/issues).
+
+## Big shoutout to 
+
+[Ashutosh's MasterFolio](https://github.com/ashutosh1919/masterPortfolio) since the UI inspiration was taken from his portfolio but I found out that the code was doing very poor with the SEO. Usage of some react conventions at the initial loading badly affected the SEO so this portfolio site is solely made to be optimized for Good Google and other search engine SEO indexes and pays the role of a portfolio site to its fulllest. 
+
