@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Helmet } from "react-helmet";
+import { Link } from "react-router-dom";
 import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import TopButton from "../../components/topButton/TopButton";
@@ -49,9 +50,9 @@ class BlogsComponent extends Component {
         <Header theme={this.props.theme} />
 
         {/* <div className="blog-header">
-        <h1 className="blog-header-text">{blogs.title}</h1>
-        <p className="subTitle blog-subtitle">{blogs.subtitle}</p>
-      </div> */}
+          <h1 className="blog-header-text">{blogs.title}</h1>
+          <p className="subTitle blog-subtitle">{blogs.subtitle}</p>
+        </div> */}
         <div className="blog-main-div">
           <div className="blog-text-div">
             <Zoom duration={1000}>
@@ -70,12 +71,9 @@ class BlogsComponent extends Component {
                     {blogs["subtitle"]}
                   </p>
                   <div className="blogsite-btn-div">
-                    <Button
-                      text="Visit back home"
-                      newTab={true}
-                      href={blogs.link}
-                      theme={theme}
-                    />
+                    <Link to={blogs.link} style={{ textDecoration: "none" }}>
+                      <Button text="Visit back home" theme={theme} />
+                    </Link>
                   </div>
                 </div>
                 <div className="blog-heading-img-div">

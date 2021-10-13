@@ -824,7 +824,7 @@ const blogs = {
   title: "Blogs",
   subtitle:
     "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character. This part is coming soon feel free to reach out again for follow up 😉",
-  link: "/home",
+  link: "/",
   avatar_image_path: "blogs_image.svg",
   section: [
     {
