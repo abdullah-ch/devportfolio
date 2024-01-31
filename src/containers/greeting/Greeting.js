@@ -53,7 +53,7 @@ export default function Greeting(props) {
             <img
               className="myimage"
               src={require("../../assests/images/mk.svg")}
-              alt="Muhammad Kumail.img"
+              alt="Abdullah Ch.img"
             ></img>
           </div>
         </div>

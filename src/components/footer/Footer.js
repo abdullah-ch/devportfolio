@@ -11,7 +11,7 @@ export default function Footer(props) {
         <p className="footer-text" style={{ color: props.theme.text }}>
           Made with <span role="img">❤️</span> by
           <a
-            href="https://www.linkedin.com/in/mkumail1/"
+            href="https://www.linkedin.com/in/abdullah-ch/"
             target="_blank"
             rel="noopener noreferrer"
             style={{
@@ -20,7 +20,7 @@ export default function Footer(props) {
             }}
           >
             {" "}
-            Muhammad Kumail
+            Abdullah Ch
           </a>
         </p>
         {/* <ToggleSwitch theme={props.theme} onToggle={props.onToggle} /> */}

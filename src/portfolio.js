@@ -7,99 +7,56 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Hi! its Kumail",
-  logo_name: "Muhammad Kumail",
+  title: "Hi! its Abdullah",
+  logo_name: "Abdullah Chaudhary",
   nickname: "",
   subTitle:
-    "A full stack developer (MERN) 💻 - A student mentor 👨‍🏫 - Public Speaker 🎤",
+    "A full stack developer (MERN / MEVN) 💻 - A Community Builder 👨‍🏫 - Public Speaker 🎤",
   resumeLink:
-    "https://drive.google.com/file/d/1eP9O3EAZMfRrqqTXlDFeCJkU5WjyhWYz/view?usp=sharing",
-  portfolio_repository: "https://github.com/mkumail1/therealmvp.dev",
+    "https://drive.google.com/file/d/1bU2Ifkn877o9jP8qEO2AvsWTXe3oBWr_/view?usp=sharing",
+  portfolio_repository: "https://github.com/abdullah-ch/devportfolio",
 };
 
 const socialMediaLinks = [
   {
     name: "Github",
-    link: "https://github.com/mkumail1",
+    link: "https://github.com/abdullah-ch",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/mkumail1/",
+    link: "https://www.linkedin.com/in/abdullah-ch/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
     name: "YouTube",
-    link: "https://www.youtube.com/channel/UCdbkGxMPdxVERO0FaYGo4qg",
+    link: "https://www.youtube.com/channel/UCNK0ZGO-8mnCGhtjUmFHyJg",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
   {
     name: "Gmail",
-    link: "mailto:mkumailofficial@gmail.com",
+    link: "mailto:abdullahchaudharry@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
   {
     name: "Twitter",
-    link: "https://twitter.com/iamkumaail",
+    link: "https://twitter.com/MAbdullahCh10",
     fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
     backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
   },
-  {
-    name: "Facebook",
-    link: "https://www.facebook.com/iamkumaail",
-    fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
-    backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
-  },
+
   {
     name: "Instagram",
-    link: "https://www.instagram.com/themvpguy/",
+    link: "https://www.instagram.com/mrabdullahch/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
 ];
-const socialMediaLinksHome = [
-  {
-    name: "Github",
-    link: "https://github.com/mkumail1",
-    fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
-    backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
-  },
-  {
-    name: "LinkedIn",
-    link: "https://www.linkedin.com/in/mkumail1/",
-    fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
-    backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
-  },
-  {
-    name: "YouTube",
-    link: "https://www.youtube.com/channel/UCdbkGxMPdxVERO0FaYGo4qg",
-    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
-    backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
-  },
-  {
-    name: "Twitter",
-    link: "https://twitter.com/iamkumaail",
-    fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
-    backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
-  },
-  {
-    name: "Gmail",
-    link: "mailto:mkumailofficial@gmail.com",
-    fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
-    backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
-  },
-
-  {
-    name: "Facebook",
-    link: "https://www.facebook.com/iamkumaail",
-    fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
-    backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
-  },
-];
+const socialMediaLinksHome = [...socialMediaLinks];
 
 const skills = {
   data: [
