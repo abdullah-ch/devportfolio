@@ -5,14 +5,18 @@ class ExperienceCard extends Component {
   render() {
     const experience = this.props.experience;
     const theme = this.props.theme;
+    const imageWrapperStyles = this.props.experience.imageWrapperStyles ?? {};
     return (
       <div
-        className="experience-card"
+        className={`experience-card `}
         style={{ border: `1px solid ${experience["color"]}` }}
       >
-        <div className="experience-card-logo-div">
+        <div
+          className={`experience-card-logo-div flex-center`}
+          // style={{ ...imageWrapperStyles }}
+        >
           <img
-            className="experience-card-logo"
+            className={`experience-card-logo`}
             src={require(`../../assests/images/${experience["logo_path"]}`)}
             alt=""
           />

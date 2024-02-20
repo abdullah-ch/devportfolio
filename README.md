@@ -1,4 +1,4 @@
-<h1 align="center"> Software DevPortfolio 🔥 </h1> 
+<h1 align="center"> Software DevPortfolio 🔥 </h1>
 
 :star: Make sure to drop a star on GitHub that helps a lot :D
 
@@ -13,7 +13,7 @@
 ✔️ Education\
 ✔️ Contact me
 
-Hit the live example, **[click here](https://kumail.ninja/)**
+Hit the live example, **[click here](https://Abdullah.ninja/)**
 
 ## Clone And Use 📋
 
@@ -101,9 +101,8 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 
 ## Contributing 💡
 
-If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/mkumail1/therealmvp.dev/pulls) or [issue](https://github.com/mkumail1/therealmvp.dev/issues).
+If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/mAbdullah1/therealmvp.dev/pulls) or [issue](https://github.com/mAbdullah1/therealmvp.dev/issues).
 
-## Big shoutout to 
+## Big shoutout to
 
-[Ashutosh's MasterFolio](https://github.com/ashutosh1919/masterPortfolio) since the UI inspiration was taken from his portfolio but I found out that the code was doing very poor with the SEO. Usage of some react conventions at the initial loading badly affected the SEO so this portfolio site is solely made to be optimized for Google and other search engine SEO indexes and plays the role of a portfolio site to its fulllest. 
-
+[Ashutosh's MasterFolio](https://github.com/ashutosh1919/masterPortfolio) since the UI inspiration was taken from his portfolio but I found out that the code was doing very poor with the SEO. Usage of some react conventions at the initial loading badly affected the SEO so this portfolio site is solely made to be optimized for Google and other search engine SEO indexes and plays the role of a portfolio site to its fulllest.

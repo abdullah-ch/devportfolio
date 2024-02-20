@@ -15,30 +15,30 @@ class Experience extends Component {
     return (
       <div className="experience-main">
         <Helmet>
-          ‍<title>Experience | TheRealMVP</title>‍
+          ‍<title>Experience </title>‍
           <meta
             name="description"
-            content="Kumail has worked with many evolving startups as a Full Stack Developer, Designer and a Software Architect. Kumail have also worked with some well established companies as Software Quality Assurance Trainee."
+            content="Abdullah has worked with many evolving startups as a Full Stack Developer, Designer and a Software Architect. Abdullah have also worked with some well established companies as Software Quality Assurance Trainee."
           />
-          <meta name="twitter:site" content="@iamkumaail" />{" "}
-          <meta name="twitter:creator" content="@iamkumaail" />{" "}
-          <meta name="twitter:title" content="Experience | TheRealMVP" />{" "}
+          <meta name="twitter:site" content="@MAbdullahCh10" />{" "}
+          <meta name="twitter:creator" content="@MAbdullahCh10" />{" "}
+          <meta name="twitter:title" content="Experience " />{" "}
           <meta
             property="twitter:url"
-            content="https://muhammadkumail.com/experience"
+            content="https://muhammadAbdullah.com/experience"
           />
           <meta
             name="twitter:description"
-            content="Kumail has worked with many evolving startups as a Full Stack Developer, Designer and a Software Architect. Kumail have also worked with some well established companies as Software Quality Assurance Trainee..."
+            content="Abdullah has worked with many evolving startups as a Full Stack Developer, Designer and a Software Architect. Abdullah have also worked with some well established companies as Software Quality Assurance Trainee..."
           />{" "}
-          <meta property="og:title" content="Experience | TheRealMVP" />{" "}
+          <meta property="og:title" content="Experience " />{" "}
           <meta
             property="og:description"
-            content="Kumail has worked with many evolving startups as a Full Stack Developer, Designer and a Software Architect. Kumail have also worked with some well established companies as Software Quality Assurance Trainee..."
+            content="Abdullah has worked with many evolving startups as a Full Stack Developer, Designer and a Software Architect. Abdullah have also worked with some well established companies as Software Quality Assurance Trainee..."
           />
           <meta
             property="og:url"
-            content="https://muhammadkumail.com/experience"
+            content="https://muhammadAbdullah.com/experience"
           />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />

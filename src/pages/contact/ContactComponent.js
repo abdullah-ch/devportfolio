@@ -18,31 +18,31 @@ class Contact extends Component {
     return (
       <div className="contact-main">
         <Helmet>
-          ‍<title>Contact | TheRealMVP</title>‍
+          ‍<title>Contact </title>‍
           <meta
             name="description"
-            content="Contact Muhammad Kumail aka TheRealMVP today"
+            content="Contact Abdullah Ch aka TheRealMVP today"
           />
           <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:site" content="@iamkumaail" />{" "}
-          <meta name="twitter:creator" content="@iamkumaail" />{" "}
-          <meta name="twitter:title" content="Contact | TheRealMVP" />{" "}
+          <meta name="twitter:site" content="@MAbdullahCh10" />{" "}
+          <meta name="twitter:creator" content="@MAbdullahCh10" />{" "}
+          <meta name="twitter:title" content="Contact " />{" "}
           <meta
             property="twitter:url"
-            content="https://muhammadkumail.com/contact"
+            content="https://muhammadAbdullah.com/contact"
           />
           <meta
             name="twitter:description"
-            content="Contact Muhammad Kumail aka TheRealMVP today"
+            content="Contact Abdullah Ch aka TheRealMVP today"
           />{" "}
-          <meta property="og:title" content="Contact | TheRealMVP" />{" "}
+          <meta property="og:title" content="Contact " />{" "}
           <meta
             property="og:description"
-            content="Contact Muhammad Kumail aka TheRealMVP today"
+            content="Contact Abdullah Ch aka TheRealMVP today"
           />
           <meta
             property="og:url"
-            content="https://muhammadkumail.com/contact"
+            content="https://muhammadAbdullah.com/contact"
           />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />
@@ -78,7 +78,7 @@ class Contact extends Component {
                 <div className="resume-btn-div">
                   <Button
                     text="Reach me via email"
-                    href="mailto:mkumailofficial@gmail.com"
+                    href="mailto:mAbdullahofficial@gmail.com"
                     theme={theme}
                   />
                 </div>

@@ -350,7 +350,7 @@ const competitiveSites = {
       style: {
         color: "#fda",
       },
-      profileLink: "https://docs.microsoft.com/en-us/users/muhammadkumail/",
+      profileLink: "https://docs.microsoft.com/en-us/users/muhammadAbdullah/",
     },
   ],
 };
@@ -570,120 +570,112 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving Start-ups as a Full Stack Developer, Designer and a Software Architect. I have also worked with some well-established companies as Software Quality Assurance Trainee. I have also given my services as a Project Manager for an International Company. The best part is that I love giving back to the people what I have learned so far. So, organising events and fundraising is what I do voluntarity. From Personally conducting hackathons to mentoring students as a Microsoft representative I have built empowering tech communities that benefits more than 3000 people across the country on a daily basis.",
+    "I have worked with evolving Start-ups as well as some well-established companies as a Full Stack JavaScript Developer. I am one of the top 10 percent Software Engineers on Stackoverflow and my questions and answers have impacted more than 5.8 million Developers all around the world !",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work",
       experiences: [
         {
-          title: "Top-Rated Freelancer: Full Stack (MERN) and DevOps",
-          company: "Upwork",
-          company_url:
-            "https://www.upwork.com/o/profiles/users/~01d6588c289ac050a4/",
-          logo_path: "upwork.png",
-          duration: "Mar 2021 - present",
-          location: "Remote Work",
+          title: "Software Engineer",
+          company: "Dubizzle",
+          company_url: "https://www.dubizzle.com/",
+          logo_path: "abdullah-work/dubizzle-logo.png",
+          imageWrapperStyles: {
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+          },
+          duration: "Jan 2023 - present",
+          location: "Hybrid",
           description:
-            "Selling services of Full Stack solutions in MERN and NextJs. One of the fatest growing freelancers on Upwork with 5 star feedback. Retaining almost every client that I have worked with so far. Further selling the art of servereless continuous integration and continuous development on major cloud platforms such as AWS, GCP, MS Azure, Heroku, Digital Ocean.",
+            "Designed and developed headless reusable components, decoupling the UI and the logic layers for better code maintainability and flexibility using React JS and Next JS. Improved code quality and maintainability by conducting component code refactoring and converting to TypeScript. Collaborated with cross-functional teams to develop effective software solutions, utilizing communication and problem-solving skills. Translated stakeholder requirements into actionable development plans for successful project outcomes ",
           color: "#0879bf",
         },
         {
-          title: "Software and Machine Learning Engineer",
-          company: "Quantaleap, Netherlands",
-          company_url: "https://quantaleap.eu/",
-          logo_path: "quantaleap.png",
-          duration: "June 2021 - August 2021",
+          title: "Full Stack Software Engineer (MERN/MEVN)",
+          company: "Trade Hat, USA",
+          company_url: "https://app.quantbotics.com/",
+          logo_path: "abdullah-work/tradehat.svg",
+          imageWrapperStyles: {
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+          },
+          duration: "Sep 2021 - Jan 2023",
           location: "Remote Work",
           description:
-            "Developing cloud solutions for enterprise and enabling cloud automation with just one click of a button. Working on project that involves Data engineering and data feeding for controlling of instances. Finally using serverless computing to build a handsome product. Main build tools involved adobe XD, AI, AWS, Azure, GCP, MERN, and Redux.",
+            "Optimized Webapp's bundle size by 15% through lazy loading, purging CSS, and migrating to lightweight libraries. Improved API security by implementing Refresh Token Rotation based Authentication with unique refresh tokens for each session using Node JS. Designed and implemented the mechanism, conducted thorough testing, and reduced the risk of data breaches. Designed and built a scalable WebSocket server with Node.js and the ws library, integrated with RabbitMQ for streaming real-time tickers' information and notifications.",
           color: "#0879bf",
         },
 
         {
-          title: "Project Manager",
-          company: "Shift Crowd, United Kingdom",
-          company_url: "https://shiftcrowd.co.uk/",
-          logo_path: "shiftcrowd.png",
-          duration: "Dec 2020 - Mar 2021",
+          title: "Full Stack Software Engineer (MERN)",
+          company: "BigOSoft",
+          company_url: "https://bigosoft.us/",
+          logo_path: "abdullah-work/bigosoft-black.png",
+          duration: "April 2020 - Sep 2021",
           location: "Remote Work",
+          imageWrapperStyles: {
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+          },
           description:
-            "Responsible for developing Enterprise level projects in MERN stack. Worked with diversified team from all across Europe remotely from home. Used applications of redux and hooks to build scalable solutions in React. Lead the team as Scrum and automation master, achieved customer satisfaction with continuous integration. Helped me build strong leadership roles in mounting big projects.",
+            "Built reusable React components with decoupled logic and UI layers using Hooks, improving code maintainability and development efficiency. Contributed to React-based POS and website front-end development using TypeScript and Material UI,delivering high-quality, responsive interfaces through collaboration with cross-functional teams. Created efficient and scalable RESTful APIs to support seamless communication between systems, ensuring productivity and minimizing downtime",
           color: "#0879bf",
-        },
-        {
-          title: "Open Source Developer",
-          company: "Student CodeIn",
-          company_url: "https://scodein.tech/",
-          logo_path: "studentcodein-logo.jpg",
-          duration: "June 2020 - Aug 2020",
-          location: "Remote Work",
-          description:
-            "Open Source project aimed to connect patients with doctors helping people psychologically by giving them advice. Mainly contributed to the project over MERN as the web stack. Resolved the issues of setting up the express server, contact us rendering, and form validation. I was involved in the team to help them build an optimized architecture. Core benefit: Reaching remote people deprived of good medical facilities.",
-          color: "#0879bf",
-        },
-        // {
-        //   title: "Android and ML Developer",
-        //   company: "Muffito Incorporation",
-        //   company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-        //   logo_path: "muffito_logo.png",
-        //   duration: "May 2018 - Oct 2018",
-        //   location: "Pune, Maharashtra",
-        //   description:
-        //     "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
-        //   color: "#9b1578",
-        // },
-      ],
-    },
-    {
-      title: "Internships",
-      experiences: [
-        {
-          title: "Machine Learning Research Intern",
-          company: "ROMI Lab, SEECS",
-          company_url: "https://romi.seecs.nust.edu.pk/",
-          logo_path: "romi-logo.png",
-          duration: "April 2020 - September 2020",
-          location: "SEECS, NUST",
-          description:
-            "Worked on project of converting 2D image into 3D using the help of Machine Learning. The project covered two main aspects: (1) To enuemerate normal prediction of a 2D image. (2) Using ML techniques to draw coordinates on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution. The project had the following scope: (a) Object Visualization for Uban Cities. (b) Generating/evaluating building hypothesis",
-          color: "#ee3c26",
-        },
-        {
-          title: "Software Quality Assurance Intern",
-          company: "Afiniti",
-          company_url: "https://www.afiniti.com/",
-          logo_path: "afiniti-vector-logo.png",
-          duration: "August 2020 - September 2020",
-          location: "Work From Home",
-          description:
-            "Worked as a Software Quality Assurance Intern for an Enterprise software developed by Afiniti with a diverse group of 70+ students from multinational backgrounds. The work helped me build strong analytical approach. The agile feedbacks and suggestions improved the product to a greater extent. Ultimately, I gained keen knowledge of working in big corporates and been able to blend into their working environments.",
-          color: "#0071C5",
-        },
-        {
-          title: "Graphic Designer Intern",
-          company: "Vyro.ai",
-          company_url: "https://www.vyro.ai/",
-          logo_path: "vyro.ai.png",
-          duration: "Feb 2019 - Apr 2019",
-          location: "TIC, NUST",
-          description:
-            "Mainly aimed to create face models for a photo editing mobile app using AI. The face features were designed using photoshop and illustrator. Used scripting for automation of rendering. The automation reduced the office overhead and labour by 60%. The initial boost helped the app to attain 1M+ downloads in the play store within a year. So far Vyro has more than 4 apps in play store with approximately 32M+ downloads.",
-          color: "#0071C5",
-        },
-        {
-          title: "Digital Marketing Intern",
-          company: "Friends Corporation",
-          company_url: "https://www.friendshome.pk/",
-          logo_path: "friendshome.png",
-          duration: "Jun 2016 - Jul 2016",
-          location: "Murree Road, Rawalpindi",
-          description:
-            "Analyzed data from 25000+ monthly active users and used outputs to guide marketing and product strategies. Increased average online engagement time by 2x, 25% decrease in drop off rate, and 3x shares on social media.",
-          color: "#0071C5",
         },
       ],
     },
+    // {
+    //   title: "Internships",
+    //   experiences: [
+    //     {
+    //       title: "Machine Learning Research Intern",
+    //       company: "ROMI Lab, SEECS",
+    //       company_url: "https://romi.seecs.nust.edu.pk/",
+    //       logo_path: "romi-logo.png",
+    //       duration: "April 2020 - September 2020",
+    //       location: "SEECS, NUST",
+    //       description:
+    //         "Worked on project of converting 2D image into 3D using the help of Machine Learning. The project covered two main aspects: (1) To enuemerate normal prediction of a 2D image. (2) Using ML techniques to draw coordinates on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution. The project had the following scope: (a) Object Visualization for Uban Cities. (b) Generating/evaluating building hypothesis",
+    //       color: "#ee3c26",
+    //     },
+    //     {
+    //       title: "Software Quality Assurance Intern",
+    //       company: "Afiniti",
+    //       company_url: "https://www.afiniti.com/",
+    //       logo_path: "afiniti-vector-logo.png",
+    //       duration: "August 2020 - September 2020",
+    //       location: "Work From Home",
+    //       description:
+    //         "Worked as a Software Quality Assurance Intern for an Enterprise software developed by Afiniti with a diverse group of 70+ students from multinational backgrounds. The work helped me build strong analytical approach. The agile feedbacks and suggestions improved the product to a greater extent. Ultimately, I gained keen knowledge of working in big corporates and been able to blend into their working environments.",
+    //       color: "#0071C5",
+    //     },
+    //     {
+    //       title: "Graphic Designer Intern",
+    //       company: "Vyro.ai",
+    //       company_url: "https://www.vyro.ai/",
+    //       logo_path: "vyro.ai.png",
+    //       duration: "Feb 2019 - Apr 2019",
+    //       location: "TIC, NUST",
+    //       description:
+    //         "Mainly aimed to create face models for a photo editing mobile app using AI. The face features were designed using photoshop and illustrator. Used scripting for automation of rendering. The automation reduced the office overhead and labour by 60%. The initial boost helped the app to attain 1M+ downloads in the play store within a year. So far Vyro has more than 4 apps in play store with approximately 32M+ downloads.",
+    //       color: "#0071C5",
+    //     },
+    //     {
+    //       title: "Digital Marketing Intern",
+    //       company: "Friends Corporation",
+    //       company_url: "https://www.friendshome.pk/",
+    //       logo_path: "friendshome.png",
+    //       duration: "Jun 2016 - Jul 2016",
+    //       location: "Murree Road, Rawalpindi",
+    //       description:
+    //         "Analyzed data from 25000+ monthly active users and used outputs to guide marketing and product strategies. Increased average online engagement time by 2x, 25% decrease in drop off rate, and 3x shares on social media.",
+    //       color: "#0071C5",
+    //     },
+    //   ],
+    // },
     {
       title: "Volunteerships",
       experiences: [
@@ -692,48 +684,37 @@ const experience = {
           company: "Microsoft",
           company_url: "https://studentambassadors.microsoft.com/",
           logo_path: "microsoft_logo.png",
-          duration: "Aug 2020 - present",
-          location: "NUST, Islamabad",
+          duration: "Aug 2019 - present",
+          location: "ITU, Lahore",
           description:
             "Microsoft Student Ambassador is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops of GitHub and seminars to teach Cloud Computing concepts to students.",
           color: "#D83B01",
         },
         {
-          title: "Developer Student Club Lead - NUST",
+          title: "Developer Student Club Lead - ITU",
           company: "Google Developers",
           company_url:
-            "https://dsc.community.dev/national-university-of-sciences-and-technology/",
-          logo_path: "dscnust-short.png",
+            "https://dsc.community.dev/information-technology-university/",
+          logo_path: "gdsc-itu.jpeg",
           duration: "July 2020 - July 2021",
-          location: "NUST, Islamabad",
+          location: "ITU, Lahore",
           description:
-            "2nd ever lead from NUST and Pakistani DSC Chapter. Lead the club for one of the most prestigious universities in Pakistan. Conducted tonnes of events in order to make student the next big assests in the market. The program provides an ecosystem that encourages sharing of knowledge, learning and community building using the power of Google and its resources. Finally, it gives the exposure of mentoring people to become the next Google Developer Expert and preserving the chain.",
+            "2nd ever lead from ITU and Pakistani DSC Chapter. Lead the club for one of the most prestigious universities in Pakistan. Conducted tonnes of events in order to make student the next big assests in the market. The program provides an ecosystem that encourages sharing of knowledge, learning and community building using the power of Google and its resources. Finally, it gives the exposure of mentoring people to become the next Google Developer Expert and preserving the chain.",
           color: "#4285F4",
         },
         {
-          title: "AWS Educate Cloud Ambassador",
-          company: "AWS Educate",
+          title: "AWS Comunity Builder",
+          company: "AWS",
           company_url:
-            "https://aws.amazon.com/education/awseducate/cloud-ambassador-program/",
+            "https://aws.amazon.com/developer/community/community-builders/",
           logo_path: "awsblack.png",
-          duration: "Apr 2020 - May 2021",
-          location: "NUST, Islamabad",
+          duration: "Apr 2020 - May 2022",
+          location: "ITU, Lahore",
           description:
-            "Enabling students to learn the cloud based cooporate technology usage using AWS. Made more than 50 students a part of AWS Educate program. Conducted workshops and Community Day event powered by AWS in Pakistan. Founded AWS community of Pakistan, the first of its kind that helps more than 1K students on a weekly basis to learn AWS.",
+            "Enabling students to learn the cloud based cooporate technology usage using AWS. Hosted webinars based on AWS and cloud-based technologies,Conducted workshops and Community Day event powered by AWS in Pakistan.",
           color: "#000000",
         },
-        {
-          title: "Global Leader",
-          company: "Millennium Fellowship Network",
-          company_url:
-            "https://www.millenniumfellows.org/fellow/2019/nust-pk/muhammad-kumail",
-          logo_path: "mcn-logo.png",
-          duration: "Jul 2019 - Jun 2020",
-          location: "NUST, Islamabad",
-          description:
-            'Leadership development program presented by the United Nations Academic Impact and MCN. Only 6% of campuses in 16 nations selected based on the calibre of applications. Over the semester, led the "Street School" project, helping 56 children ages 4-11 gain access to mentorship and 86% improved their lifestyle. Engaged in webinars with Katie Strock, Gates Foundation, Eric Knee, Stanford Social Innovation Review, Sam Vaghar. Mainly targeted SDG# 3: Good Health and Well Being, SDG#4: Quality Education, SDG#5: Gender Equality. Engaged in sessions to cultivate core values of empathy, humility, inclusion in leadership and social impact. Honed skills including how to write a budget and set and meet strategic goals. Helped build a community of practice - sharing best practices across organizations. Later our project was listed among the top 5 projects of the fellowship program. Collaborated with other non-profit organizations to help maximum people from back of areas to come up. Later, I was selected as the program recruiter which enabled me to select the future social entrepreneuers on the basis of merit. Finally, I was offered to become the program mentor for my university chapter.',
-          color: "#0C9D58",
-        },
+
         {
           title: "Developer Program Member",
           company: "Github",
@@ -743,26 +724,6 @@ const experience = {
           location: "Work From Home",
           description:
             "I am actively contributing to many opensource projects. I have contributed to projects of organisations like StudentCodeIn, Hacktoberfest, flutter mobile apps, and MERN applications. These contributions include bug fixes, feature requests and formulating proper documentation for a project.",
-          color: "#181717",
-        },
-        {
-          title: "Executive Committee Member",
-          company: "Nust International Model United Nations",
-          company_url: "https://www.facebook.com/nimunpk/",
-          logo_path: "srp-logo.png",
-          duration: "Sep 2019 - Jan 2020",
-          location: "NUST, Islamabad",
-          description: `Lead Social Responsibility program by NIMUN. Collaborated NIMUN with MCN in order to attain the common goal of making a difference in the lives of the people in need. \nStrived for: \nSDG# 3: Good Health and Well Being – Lives Impacted 20+. \nSDG#4: Quality Education – Lives Impacted 50+. \nSDG#5: Gender Equality – Lives Impacted 30+. \nSDG#12 Responsible Consumption and Production – Lives Impacted 100+.`,
-          color: "#181717",
-        },
-        {
-          title: "Team Lead Social Media Marketing",
-          company: "Association of Computing and Machinery, NUST",
-          company_url: "https://www.facebook.com/NUST.ACM",
-          logo_path: "acmnust.png",
-          duration: "Nov 2018 - Sep 2020",
-          location: "SEECS, NUST, Islamabad",
-          description: `Conducted more than 20 events throughout the tenure including HackACM, Github workshops, and exclusive programming events. Engaged more than 100K people across all social media handles of ACM-NUST. Headed major events like: Redbulll University Outreach, Media Week, Facebook Developer's Workshop, MLH Local Hack Day`,
           color: "#181717",
         },
       ],
@@ -815,7 +776,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "address_image.svg",
     description:
-      "I am available on almost every social media. And here is the fun part, I'm very responsive, so feel free to reach me out if you want a Freelance work to be done or need a speaker for your tech talk. You can hit me up and have a Tech Savvy advice too! I can help you with ML, AI, MERN Stack and Android applications, Cloud Architectures and Opensource Development.",
+      "I am available on almost every social media. And here is the fun part, I'm very responsive, so feel free to reach me out if you want a Freelance work to be done or need a speaker for your tech talk. You can hit me up and have a Tech Savvy advice too! I can help you with MERN / MEVN Stack and Opensource Development.",
   },
   addressSection: {
     title: "Address",
@@ -825,7 +786,7 @@ const contactPageData = {
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+92 3311140888",
+    subtitle: "+92 3124108473",
   },
 };
 

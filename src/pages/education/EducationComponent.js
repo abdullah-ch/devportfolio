@@ -17,30 +17,30 @@ class Education extends Component {
     return (
       <div className="education-main">
         <Helmet>
-          ‍<title>Education | TheRealMVP</title>‍
+          ‍<title>Education </title>‍
           <meta
             name="description"
             content="My education history has always been an entertaining one, here's what's more about it..."
           />
-          <meta name="twitter:site" content="@iamkumaail" />{" "}
-          <meta name="twitter:creator" content="@iamkumaail" />{" "}
-          <meta name="twitter:title" content="Education | TheRealMVP" />{" "}
+          <meta name="twitter:site" content="@MAbdullahCh10" />{" "}
+          <meta name="twitter:creator" content="@MAbdullahCh10" />{" "}
+          <meta name="twitter:title" content="Education " />{" "}
           <meta
             property="twitter:url"
-            content="https://muhammadkumail.com/education"
+            content="https://muhammadAbdullah.com/education"
           />
           <meta
             name="twitter:description"
             content="My education history has always been an entertaining one, here's what's more about it..."
           />{" "}
-          <meta property="og:title" content="Education | TheRealMVP" />{" "}
+          <meta property="og:title" content="Education " />{" "}
           <meta
             property="og:description"
             content="My education history has always been an entertaining one, here's what's more about it..."
           />
           <meta
             property="og:url"
-            content="https://muhammadkumail.com/education"
+            content="https://muhammadAbdullah.com/education"
           />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />

@@ -11,32 +11,29 @@ class Home extends Component {
     return (
       <div>
         <Helmet>
-          ‍<title>Muhammad Kumail | TheRealMVP</title>‍
+          ‍<title>Abdullah Ch </title>‍
           <meta
             name="description"
-            content="Muhammad Kumail (therealmvp) is a Full Stack Developer, Public Speaker, and a student mentor. Kumail is also an AWS Educate Cloud Ambassador, Microsoft Learn Student Ambassador and former Google Developers Student Club Lead at NUST"
+            content="Abdullah Ch (therealmvp) is a Full Stack Developer, Public Speaker, and a student mentor. Abdullah is also an AWS Educate Cloud Ambassador, Microsoft Learn Student Ambassador and former Google Developers Student Club Lead at NUST"
           />
-          <meta name="twitter:site" content="@iamkumaail" />{" "}
-          <meta name="twitter:creator" content="@iamkumaail" />{" "}
-          <meta name="twitter:title" content="Resume | TheRealMVP" />{" "}
+          <meta name="twitter:site" content="@MAbdullahCh10" />{" "}
+          <meta name="twitter:creator" content="@MAbdullahCh10" />{" "}
+          <meta name="twitter:title" content="Resume " />{" "}
           <meta
             property="twitter:url"
-            content="https://muhammadkumail.com/home"
+            content="https://muhammadAbdullah.com/home"
           />
           <meta
             name="twitter:description"
-            content="Muhammad Kumail (therealmvp) is a Full Stack Developer, Public Speaker, and a student mentor. Kumail is also an AWS Educate Cloud Ambassador, Microsoft Learn Student Ambassador and former Google Developers Student Club Lead at NUST"
+            content="Abdullah Ch (therealmvp) is a Full Stack Developer, Public Speaker, and a student mentor. Abdullah is also an AWS Educate Cloud Ambassador, Microsoft Learn Student Ambassador and former Google Developers Student Club Lead at NUST"
           />
-          <meta property="og:title" content="Muhammad Kumail | TheRealMVP" />{" "}
+          <meta property="og:title" content="Abdullah Ch " />{" "}
           <meta
             property="og:description"
-            content="Muhammad Kumail (therealmvp) is a Full Stack Developer, Public Speaker, and a student mentor. Kumail is also an AWS Educate Cloud Ambassador, Microsoft Learn Student Ambassador and former Google Developers Student Club Lead at NUST"
+            content="Abdullah Ch (therealmvp) is a Full Stack Developer, Public Speaker, and a student mentor. Abdullah is also an AWS Educate Cloud Ambassador, Microsoft Learn Student Ambassador and former Google Developers Student Club Lead at NUST"
           />
-          <meta property="og:url" content="https://muhammadkumail.com/" />
-          <meta
-            property="og:site_name"
-            content="Muhammad Kumail | TheRealMVP"
-          />
+          <meta property="og:url" content="https://muhammadAbdullah.com/" />
+          <meta property="og:site_name" content="Abdullah Ch " />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />
         </Helmet>

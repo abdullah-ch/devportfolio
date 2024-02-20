@@ -17,31 +17,28 @@ class Projects extends Component {
     return (
       <div className="projects-main">
         <Helmet>
-          ‍<title>Projects | TheRealMVP</title>‍
+          ‍<title>Projects</title>‍
           <meta
             name="description"
-            content="What's better when Kumail's project speak for itself and explains his tech skills in a better way"
+            content="What's better when Abdullah's project speak for itself and explains his tech skills in a better way"
           />
-          <meta name="twitter:site" content="@iamkumaail" />{" "}
-          <meta name="twitter:creator" content="@iamkumaail" />{" "}
-          <meta name="twitter:title" content="Projects | TheRealMVP" />{" "}
+          <meta name="twitter:site" content="@MAbdullahCh10" />{" "}
+          <meta name="twitter:creator" content="@MAbdullahCh10" />{" "}
+          <meta name="twitter:title" content="Projects " />{" "}
           <meta
             property="twitter:url"
-            content="https://muhammadkumail.com/projects"
+            content="https://github.com/abdullah-ch"
           />
           <meta
             name="twitter:description"
-            content="What's better when Kumail's project speak for itself and explains his tech skills in a better way"
+            content="What's better when Abdullah's project speak for itself and explains his tech skills in a better way"
           />{" "}
-          <meta property="og:title" content="Projects | TheRealMVP" />{" "}
+          <meta property="og:title" content="Projects " />{" "}
           <meta
             property="og:description"
-            content="What's better when Kumail's project speak for itself and explains his tech skills in a better way"
+            content="What's better when Abdullah's project speak for itself and explains his tech skills in a better way"
           />
-          <meta
-            property="og:url"
-            content="https://muhammadkumail.com/projects"
-          />
+          <meta property="og:url" content="https://github.com/abdullah-ch" />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />
         </Helmet>
@@ -81,7 +78,7 @@ class Projects extends Component {
         <Button
           text={"More Projects"}
           className="project-button"
-          href="https://github.com/mkumail1"
+          href="https://github.com/abdullah-ch"
           newTab={true}
           theme={theme}
         />

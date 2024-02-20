@@ -9,7 +9,11 @@
 .experience-card-logo-div {
   margin: 10px;
 }
-
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .experience-card-body-div {
   width: 100%;
 }
