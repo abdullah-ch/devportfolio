@@ -1,5 +1,8 @@
 /* header */
 
+.active {
+  font-weight: bold;
+}
 .header {
   display: block;
   max-width: 90%;
