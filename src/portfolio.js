@@ -568,7 +568,7 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "Work and Volunteership",
   description:
     "I have worked with evolving Start-ups as well as some well-established companies as a Full Stack JavaScript Developer. I am one of the top 10 percent Software Engineers on Stackoverflow and my questions and answers have impacted more than 5.8 million Developers all around the world !",
   header_image_path: "experience.svg",
