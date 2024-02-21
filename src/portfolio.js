@@ -19,6 +19,12 @@ const greeting = {
 
 const socialMediaLinks = [
   {
+    name: "Stackoverflow",
+    link: "https://stackoverflow.com/users/13708712/abdullah-ch",
+    fontAwesomeIcon: "fa-stack-overflow", // Reference https://fontawesome.com/icons/github?style=brands
+    backgroundColor: "#F48024", // Reference https://simpleicons.org/?q=github
+  },
+  {
     name: "Github",
     link: "https://github.com/abdullah-ch",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
@@ -106,9 +112,9 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Proficient in full-stack web development with a focus on responsive web design using React JS, HTML/CSS and cool UI Libraries",
-        "⚡ Expertise in developing Single Page Rendering applications using Vue JS, React JS and Next JS",
+        "⚡ Expertise in developing Single Page Rendering applications using Vue JS, React JS and Next JS with Design Patterns",
         "⚡ Demonstrated ability in creating optimized application backends using Node JS, Express JS, and Nest Js.",
-        "⚡ Experienced in the creating Rest APIs within the framework of contemporary programming practices.",
+        "⚡ Experienced in creating REST APIs using Best Practices",
       ],
 
       softwareSkills: [
