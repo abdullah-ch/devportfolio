@@ -105,12 +105,12 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive websites using React-Redux.js | HTML/CSS | Bootstrap | Scemantic UI",
-        "⚡ Creating Single page rendering applications using Redux and HooksJs",
-        // "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating optimized application backends in Node.js, Express.js and PHP",
-        "⚡ Experience in usage of Rest APIs in modern programming practices",
+        "⚡ Proficient in full-stack web development with a focus on responsive web design using React JS, HTML/CSS and cool UI Libraries",
+        "⚡ Expertise in developing Single Page Rendering applications using Vue JS, React JS and Next JS",
+        "⚡ Demonstrated ability in creating optimized application backends using Node JS, Express JS, and Nest Js.",
+        "⚡ Experienced in the creating Rest APIs within the framework of contemporary programming practices.",
       ],
+
       softwareSkills: [
         {
           skillName: "HTML5",
@@ -262,49 +262,48 @@ const skills = {
         },
       ],
     },
-    // {
-    //   title: "UI/UX Design",
-    //   fileName: "DesignImg",
-    //   skills: [
-    //     "⚡ Designing highly attractive user interface for mobile and web applications",
-    //     "⚡ Customizing logo designs and making logos from scratch",
-    //     "⚡ Creating the flow of application functionalities to optimize user experience",
-    //     "⚡ Enabling engaging user experience for generating leeds",
-    //   ],
-    //   softwareSkills: [
-    //     {
-    //       skillName: "Adobe XD",
-    //       fontAwesomeClassname: "simple-icons:adobexd",
-    //       style: {
-    //         color: "#FF2BC2",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Figma",
-    //       fontAwesomeClassname: "simple-icons:figma",
-    //       style: {
-    //         color: "#F24E1E",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Adobe Illustrator",
-    //       fontAwesomeClassname: "simple-icons:adobeillustrator",
-    //       style: {
-    //         color: "#FF7C00",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Adobe Photoshop",
-    //       fontAwesomeClassname: "simple-icons:adobephotoshop",
-    //       style: {
-    //         backgroundColor: "#31A8FF",
-    //         borderRadius: "9px",
-    //         padding: "1px 2px",
-    //         color: "#001E36",
-    //       },
-    //     },
-    //   ],
-    // },
+    {
+      title: "UI/UX Design",
+      fileName: "DesignImg",
+      skills: [
+        "⚡ Designing highly attractive user interface for mobile and web applications",
+        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ Enabling engaging user experience for generating leads",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Adobe XD",
+          fontAwesomeClassname: "simple-icons:adobexd",
+          style: {
+            color: "#FF2BC2",
+          },
+        },
+        {
+          skillName: "Figma",
+          fontAwesomeClassname: "simple-icons:figma",
+          style: {
+            color: "#F24E1E",
+          },
+        },
+        {
+          skillName: "Adobe Illustrator",
+          fontAwesomeClassname: "simple-icons:adobeillustrator",
+          style: {
+            color: "#FF7C00",
+          },
+        },
+        {
+          skillName: "Adobe Photoshop",
+          fontAwesomeClassname: "simple-icons:adobephotoshop",
+          style: {
+            backgroundColor: "#31A8FF",
+            borderRadius: "9px",
+            padding: "1px 2px",
+            color: "#001E36",
+          },
+        },
+      ],
+    },
   ],
 };
 
