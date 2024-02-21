@@ -29,7 +29,7 @@ class Contact extends Component {
           <meta name="twitter:title" content="Contact " />{" "}
           <meta
             property="twitter:url"
-            content="https://muhammadAbdullah.com/contact"
+            content="https://abdullahch.dev/contact"
           />
           <meta
             name="twitter:description"
@@ -40,10 +40,7 @@ class Contact extends Component {
             property="og:description"
             content="Contact Abdullah Ch aka TheRealMVP today"
           />
-          <meta
-            property="og:url"
-            content="https://muhammadAbdullah.com/contact"
-          />
+          <meta property="og:url" content="https://abdullahch.dev/contact" />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />
         </Helmet>

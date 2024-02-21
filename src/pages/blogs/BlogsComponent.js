@@ -27,10 +27,7 @@ class BlogsComponent extends Component {
           <meta name="twitter:site" content="@MAbdullahCh10" />{" "}
           <meta name="twitter:creator" content="@MAbdullahCh10" />{" "}
           <meta name="twitter:title" content="Blogs - TheRealMVP" />
-          <meta
-            property="twitter:url"
-            content="https://muhammadAbdullah.com/blogs"
-          />
+          <meta property="twitter:url" content="https://abdullahch.dev/blogs" />
           <meta
             name="twitter:description"
             content="Wanna know more about what I write? Here's everything you would be needing to know more about me"
@@ -42,10 +39,7 @@ class BlogsComponent extends Component {
             content="Wanna know more about what I write? Here's everything you would be needing to know more about me"
           />
           <meta property="og:image" content="url_to_image" />
-          <meta
-            property="og:url"
-            content="https://muhammadAbdullah.com/blogs"
-          />
+          <meta property="og:url" content="https://abdullahch.dev/blogs" />
           <meta property="og:site_name" content="Blogs - TheRealMVP" />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />

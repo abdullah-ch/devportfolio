@@ -27,7 +27,7 @@ class Education extends Component {
           <meta name="twitter:title" content="Education " />{" "}
           <meta
             property="twitter:url"
-            content="https://muhammadAbdullah.com/education"
+            content="https://abdullahch.dev/education"
           />
           <meta
             name="twitter:description"
@@ -38,10 +38,7 @@ class Education extends Component {
             property="og:description"
             content="My education history has always been an entertaining one, here's what's more about it..."
           />
-          <meta
-            property="og:url"
-            content="https://muhammadAbdullah.com/education"
-          />
+          <meta property="og:url" content="https://abdullahch.dev/education" />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />
         </Helmet>
