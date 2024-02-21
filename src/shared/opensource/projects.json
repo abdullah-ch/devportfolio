@@ -57,6 +57,34 @@
           "iconifyClass": "logos-css-3"
         }
       ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyND30NjcyNzQ=",
+      "name": "Chai Khana",
+      "createdAt": "May 2021",
+      "url": "https://www.chaayekhana.com/",
+      "description": "Chai Khana is a Pakistani Restaurant, famous for the rich flavors of Indian and Pakistani cuisine",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG93aXRvcnkyND30NjcyNzQ=",
+      "name": "Dubizzle",
+      "createdAt": "Oct 2023",
+      "url": "https://www.dubizzle.com/",
+      "description": "Dubizzle is UAE's #1 online Classified website",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        }
+      ]
     }
   ]
 }

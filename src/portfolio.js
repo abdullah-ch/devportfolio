@@ -262,49 +262,49 @@ const skills = {
         },
       ],
     },
-    {
-      title: "UI/UX Design",
-      fileName: "DesignImg",
-      skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and making logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
-        "⚡ Enabling engaging user experience for generating leeds",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
-        {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
-          style: {
-            color: "#F24E1E",
-          },
-        },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Adobe Photoshop",
-          fontAwesomeClassname: "simple-icons:adobephotoshop",
-          style: {
-            backgroundColor: "#31A8FF",
-            borderRadius: "9px",
-            padding: "1px 2px",
-            color: "#001E36",
-          },
-        },
-      ],
-    },
+    // {
+    //   title: "UI/UX Design",
+    //   fileName: "DesignImg",
+    //   skills: [
+    //     "⚡ Designing highly attractive user interface for mobile and web applications",
+    //     "⚡ Customizing logo designs and making logos from scratch",
+    //     "⚡ Creating the flow of application functionalities to optimize user experience",
+    //     "⚡ Enabling engaging user experience for generating leeds",
+    //   ],
+    //   softwareSkills: [
+    //     {
+    //       skillName: "Adobe XD",
+    //       fontAwesomeClassname: "simple-icons:adobexd",
+    //       style: {
+    //         color: "#FF2BC2",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Figma",
+    //       fontAwesomeClassname: "simple-icons:figma",
+    //       style: {
+    //         color: "#F24E1E",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Adobe Illustrator",
+    //       fontAwesomeClassname: "simple-icons:adobeillustrator",
+    //       style: {
+    //         color: "#FF7C00",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Adobe Photoshop",
+    //       fontAwesomeClassname: "simple-icons:adobephotoshop",
+    //       style: {
+    //         backgroundColor: "#31A8FF",
+    //         borderRadius: "9px",
+    //         padding: "1px 2px",
+    //         color: "#001E36",
+    //       },
+    //     },
+    //   ],
+    // },
   ],
 };
 
@@ -735,7 +735,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects involve use of various tech architectures and tools including ReactJs, NextJs, Redux, Hooks, Nodejs, ExpressJs, MongoDB, HTML/CSS, C/C++, Android Apps in Java, and Python. My best experience is to create Full stack applications and deploy them using an efficient cloud infrastructure.",
+    "My projects involve use of various tech architectures and tools including ReactJs, NextJs, Redux, Hooks, Nodejs, ExpressJs, MongoDB, HTML/CSS and Vue JS. My best experience is to create Full stack applications and deploy them using an efficient cloud infrastructure.",
   avatar_image_path: "projects_image.svg",
 };
 
