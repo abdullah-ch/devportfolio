@@ -6,7 +6,7 @@ class Resume extends Component {
     return (
       <div className="div-resume">
         <embed
-          src={require(`../../assests/documents/Abdullah's Resume.pdf`)}
+          src={require(`../../assests/documents/Abdullah-Resume.pdf`)}
           type="application/pdf"
           className="embed-resume"
         />
