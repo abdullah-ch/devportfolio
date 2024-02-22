@@ -13,7 +13,7 @@
 ✔️ Education\
 ✔️ Contact me
 
-Hit the live example, **[click here](https://Abdullah.ninja/)**
+Hit the live example, **[click here]https://www.abdullahch.dev/)**
 
 ## Clone And Use 📋
 
