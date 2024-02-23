@@ -75,7 +75,7 @@ class Contact extends Component {
                 <div className="resume-btn-div">
                   <Button
                     text="Reach me via email"
-                    href="mailto:mAbdullahofficial@gmail.com"
+                    href="mailto:abdullahchaudharry@gmail.com"
                     theme={theme}
                   />
                 </div>
