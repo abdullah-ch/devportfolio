@@ -69,6 +69,14 @@
         {
           "name": "React",
           "iconifyClass": "logos-react"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
         }
       ]
     },
@@ -83,6 +91,14 @@
         {
           "name": "React",
           "iconifyClass": "logos-react"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
         }
       ]
     },
@@ -105,6 +121,28 @@
         {
           "name": "nodeJs",
           "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlc2G93a2XRvcnkyND30NjcyNzQ=",
+      "name": "Unto The One",
+      "createdAt": "March 2023",
+      "url": "https://untotheone.com/",
+      "description": "Unto the One helps you embark on a spiritual journey to seek unity and enlightenment.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
         },
         {
           "name": "HTML",
