@@ -85,6 +85,36 @@
           "iconifyClass": "logos-react"
         }
       ]
+    },
+    {
+      "id": "MDEwOlJlc2G93aXRvcnkyND30NjcyNzQ=",
+      "name": "Trade Hat",
+      "createdAt": "Sep 2021",
+      "url": "https://app.tradehat.com/",
+      "description": "TradeHat provides backtesting ticker strategies, screening tickers and many other cool trading features",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Vue",
+          "iconifyClass": "logos-vue"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "nodeJs",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
     }
   ]
 }

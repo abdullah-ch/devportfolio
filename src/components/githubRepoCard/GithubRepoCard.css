@@ -79,6 +79,7 @@
 .repo-details {
   display: flex;
   flex-direction: row;
+  width: 100%;
 }
 
 .repo-creation-date {
@@ -109,5 +110,11 @@
 
   .repo-creation-date {
     font-size: 14px;
+  }
+}
+
+@media (min-width: 912px) {
+  .repo-card-div {
+    min-height: 240px;
   }
 }
