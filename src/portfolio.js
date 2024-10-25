@@ -575,14 +575,30 @@ const experience = {
   title: "Experience",
   subtitle: "Work and Volunteership",
   description:
-    "I have worked with evolving Start-ups as well as some well-established companies as a Full Stack JavaScript Developer. I am one of the top 10 percent Software Engineers on Stackoverflow and my questions and answers have impacted more than 5.8 million Developers all around the world !",
+    "I have worked with evolving Start-ups as well as some well-established companies as a Full Stack JavaScript Developer. I am one of the top 10 percent Software Engineers on Stackoverflow and my questions and answers have helped more than 6 million Developers all around the world !",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work",
       experiences: [
         {
-          title: "Software Engineer",
+          title: "Senior Software Engineer",
+          company: "RANA",
+          company_url: "https://www.ranadev.io/",
+          logo_path: "abdullah-work/ranadev-logo.jpeg",
+          imageWrapperStyles: {
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+          },
+          duration: "Mar 2024 - present",
+          location: "remote",
+          description:
+            "Engineered  RESTful  APIs  for  a  FinTech  application  to  onboard  individual  and company  customers  with  third-party  banking  partners,  utilizing  Nest.js  and MongoDB for secure and seamless data exchange, reducing onboarding time by 40% and increasing completion rates by 30%. Intergrated  Know  Your  Customer  (KYC)  and  Customer  Due  Diligence  (CDD)services, helping global banking clients meet strict regulatory standards using NestJs, GraphQL and MongoDB. Developed and implemented unit tests using Jest in Nest Js, achieving over 90% testcoverage for new features, signicantly reducing production bugs, and enhancingapplication stability. Engineered  and  optimized  frontend  components  for  banking  applicationonboarding  using  Next.js,  integrating  GraphQL,  Redux  Toolkit,  and  React  HookForm.  Applied  Factory  and  Decorator  design  paerns  to  streamline  datamanagement and enhance code readibility and maintainability.",
+          color: "#0879bf",
+        },
+        {
+          title: "Software Engineer II",
           company: "Dubizzle",
           company_url: "https://www.dubizzle.com/",
           logo_path: "abdullah-work/dubizzle-logo.png",
@@ -591,7 +607,7 @@ const experience = {
             alignItems: "center",
             justifyContent: "center",
           },
-          duration: "Jan 2023 - present",
+          duration: "Jan 2023 - Mar 2024",
           location: "Hybrid",
           description:
             "Designed and developed headless reusable components, decoupling the UI and the logic layers for better code maintainability and flexibility using React JS and Next JS. Improved code quality and maintainability by conducting component code refactoring and converting to TypeScript. Collaborated with cross-functional teams to develop effective software solutions, utilizing communication and problem-solving skills. Translated stakeholder requirements into actionable development plans for successful project outcomes ",
@@ -607,7 +623,7 @@ const experience = {
             alignItems: "center",
             justifyContent: "center",
           },
-          duration: "Sep 2021 - Jan 2023",
+          duration: "Sep 2021 - Oct 2023",
           location: "Remote Work",
           description:
             "Optimized Webapp's bundle size by 15% through lazy loading, purging CSS, and migrating to lightweight libraries. Improved API security by implementing Refresh Token Rotation based Authentication with unique refresh tokens for each session using Node JS. Designed and implemented the mechanism, conducted thorough testing, and reduced the risk of data breaches. Designed and built a scalable WebSocket server with Node.js and the ws library, integrated with RabbitMQ for streaming real-time tickers' information and notifications.",
